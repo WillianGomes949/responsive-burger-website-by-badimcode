@@ -1,4 +1,4 @@
-# Responsive Burger Website
+# Site de Estudo! 'Responsive Burger Website', todos os direitos ao autor [Bedimcode](https://www.youtube.com/@Bedimcode)
 
 ## [Watch it on youtube](https://youtu.be/PA-V-GxYa9w)
 
