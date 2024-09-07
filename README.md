@@ -1,12 +1,8 @@
-# Site de Estudo! Todos os direitoa ao criador [Bedimcode] ((https://www.youtube.com/@Bedimcode)
+# Responsive Burger Website
 
-)
+## [Watch it on youtube](https://youtu.be/PA-V-GxYa9w)
 
-# Site de hambúrguer responsivo
-
-## [Assista no youtube](https://youtu.be/PA-V-GxYa9w)
-
-### Site de hambúrguer responsivo
+### Responsive Burger Website
 
 - Design de site de hambúrguer responsivo usando HTML CSS e JavaScript
 - Contém animações ao rolar.
