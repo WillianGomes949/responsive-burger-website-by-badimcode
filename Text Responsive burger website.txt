@@ -1,107 +1,101 @@
-========== HEADER ==========
+=========== CABEÇALHO ==========
 .nav__logo
-Burger
+Hambúrguer
 
 .nav__link
-Home - Recipe - Popular - Delivery - Contact
+Página inicial - Receita - Popular - Entrega - Contato
 
-
-========== HOME ==========
+========== PÁGINA INICIAL ==========
 .home__title
-Love Every <br> Burger
+Ame cada hambúrguer <br>
 
 .home__description
-We serve the best burgers on the planet, 
-paving the way for cooking and preparing 
-hot, delicious burgers.
+Servimos os melhores hambúrgueres do planeta,
+abrindo caminho para cozinhar e preparar
+hambúrgueres quentes e deliciosos.
 
 .button
-Bite Now
+Morda agora
 
-
-========== RECIPE ==========
+========== RECEITA ==========
 .section__title
-Our Secret Recipe
+Nossa receita secreta
 
 .recipe__title .recipe__description
-Bread
-Fresh bread, baked to perfection.
+Pão
+Pão fresco, assado com perfeição.
 
-Cheese
-Cheese for a fantastic and healthy future.
+Queijo
+Queijo para um futuro fantástico e saudável.
 
-Meat
-100% pure beef, big and meaty.
+Carne
+100% carne bovina pura, grande e carnuda.
 
-Vegetables
-Vegetables full of the essence of nature and organic.
+Legumes
+Legumes cheios da essência da natureza e orgânicos.
 
-Sauces
-Fresh sauces, delicious for the palate.
-
+Molhos
+Molhos frescos, deliciosos para o paladar.
 
 ========== POPULAR ==========
 .section__title
-Most Devoured <br> Burgers
+Hambúrgueres <br> mais devorados
 
 .popular__title .popular__price
-Chicken <br> Burger
-$6
+Hambúrguer <br> de frango
+$ 6
 
-Meat <br> Burger
-$10
+Hambúrguer <br> de carne
+$ 10
 
-Grill <br> Burger
-$12
+Hambúrguer <br> grelhado
+$ 12
 
-Classic <br> Burger
-$8
+Hambúrguer <br> clássico
+$ 8
 
-Big <br> Burger
-$15
+Hambúrguer <br> grande
+$ 15
 
-
-========== DELIVERY ==========
+========== ENTREGA ==========
 .section__title
-Fast Delivery
+Entrega rápida
 
 .delivery__description
-Place your order for your favorite burger 
-and we will deliver it to your door in minutes, 
-get in touch and don't leave hungry.
+Faça seu pedido do seu hambúrguer favorito
+e nós o entregaremos na sua porta em minutos,
+entre em contato e não saia com fome.
 
 .button
-Contact Now
+Entre em contato agora
 
-
-========== CONTACT ==========
+========== CONTATO ==========
 .section__title
-Contact Now
+Entre em contato agora
 
 .contact__title .contact__info
-Write Us
+Escreva para nós
 
 .contact__social
-https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://api.whatsapp.com/send?phone=+5585988954188&text=Olá, mais informações!
 https://m.me/bedimcode
 https://t.me/telegram
 
-Call Us and Order
+Ligue para nós e faça seu pedido
 +00-987-7654-321 <br>
 +11-012345
 
-Find us here
+Encontre-nos aqui
 Lima - Sun City - Peru <br>
-Av. Moon #4321
+Av. Lua #4321
 
-
-========== FOOTER ==========
+========== RODAPÉ ==========
 .footer__logo
 Burger
 
 .footer__link
-Terms & Agreements
-Privacy Policy
+Termos e acordos
+Política de privacidade
 
 .footer__social
 https://www.facebook.com/
@@ -109,4 +103,4 @@ https://www.instagram.com/
 https://twitter.com/
 
 .footer__copy
-&#169; All Rights Reserved By Bedimcode
+&#169; Todos os direitos reservados pela Bedimcode

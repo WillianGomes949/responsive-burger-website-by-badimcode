@@ -1,66 +1,116 @@
 <!DOCTYPE html>
-   <html lang="en">
-   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html lang="en">
 
-      <!--=============== FAVICON ===============-->
-      <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-      <!--=============== REMIXICONS ===============-->
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.min.css">
+   <!--=============== FAVICON ===============-->
+   <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
-      <!--=============== CSS ===============-->
-      <link rel="stylesheet" href="assets/css/styles.css">
+   <!--=============== REMIXICONS ===============-->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.min.css">
 
-      <title>Responsive burger website - Bedimcode</title>
-   </head>
-   <body>
-      <!--==================== HEADER ====================-->
-      <header class="header" id="header">
-         
-      </header>
+   <!--=============== CSS ===============-->
+   <link rel="stylesheet" href="assets/css/styles.css">
 
-      <!--==================== MAIN ====================-->
-      <main class="main">
-         <!--==================== HOME ====================-->
-         <section class="home section" id="home">
-            
-         </section>
+   <title>Responsive burger website - Bedimcode</title>
+</head>
 
-         <!--==================== RECIPE ====================-->
-         <section class="recipe section" id="recipe">
-            
-         </section>
+<body>
+   <!--==================== HEADER ====================-->
+   <header class="header" id="header">
+      <nav class="nav container">
+         <a href="#" class="nav__logo">
+            <div>
+               <img src="assets/img/logo-burger.svg" alt="logo">
+            </div>
+            Hambúrguer
+         </a>
+         <div class="nav__menu" id="nav-menu">
+            <ul class="nav__list">
+               <li><a href="#inicio" class="nav__link">Inicio</a></li>
+               <li><a href="#receita" class="nav__link">Receita</a></li>
+               <li><a href="#popular" class="nav__link">Popular</a></li>
+               <li><a href="#entrega" class="nav__link">Entrega</a></li>
+               <li><a href="#contato" class="nav__link">Contato</a></li>
+            </ul>
 
-         <!--==================== POPULAR ====================-->
-         <section class="popular section" id="popular">
-            
-         </section>
+            <!-- BOTÃO DE FECHAR -->
 
-         <!--==================== DELIVERY ====================-->
-         <section class="delivery section" id="delivery">
-            
-         </section>
+            <div class="nav__close" id="nav-close">
+               <i class="ri-close-large-line"></i>
+            </div>
+         </div>
+         <!-- BOTÃO DE ALTERNANCIA  -->
+         <div class="nav__toggle" id="nav-toggle">
+            <i class="ri-apps-2-fill"></i>
+         </div>
+      </nav>
+   </header>
 
-         <!--==================== CONTACT ====================-->
-         <section class="contact section" id="contact">
-            
-         </section>
-      </main>
+   <!--==================== MAIN ====================-->
+   <main class="main">
+      <!--==================== INICIO ====================-->
+      <section class="home section" id="inicio">
+         <div class="home__container container grid">
+            <div class="home__data">
+               <h1 class="home__title">Ame cada hambúrguer <br></h1>
+               <p class="home__description">Servimos os melhores hambúrgueres do planeta,
+                  abrindo caminho para cozinhar e preparar
+                  hambúrgueres quentes e deliciosos.
+               </p>
+               <a href="#popular" class="button">Morda agora</a>
+               <img src="assets/img/sticker-potatoes.svg" alt="image" class="home__sticker">
+            </div>
+            <div class="home__images">
+               <img src="assets/img/home-burger.png" alt="image" class="home__burger">
+               <img src="assets/img/home-dish.png" alt="image" class="home__dish">
 
-      <!--==================== FOOTER ====================-->
-      <footer class="footer">
+               <img src="assets/img/home-potato.png" alt="image" class="home__ingredient home__potato-1">
+               <img src="assets/img/home-potato.png" alt="image" class="home__ingredient home__potato-2">
+               <img src="assets/img/home-tomato.png" alt="image" class="home__ingredient home__tomato-1">
+               <img src="assets/img/home-tomato.png" alt="image" class="home__ingredient home__tomato-2">
+               <img src="assets/img/home-lettuce.png" alt="image" class="home__ingredient home__lettuce-1">
+               <img src="assets/img/home-lettuce.png" alt="image" class="home__ingredient home__lettuce-2">
+            </div>
+         </div>
+      </section>
 
-      </footer>
+      <!--==================== RECEITA ====================-->
+      <section class="recipe section" id="receita">
 
-      <!--========== SCROLL UP ==========-->
-      
+      </section>
 
-      <!--=============== SCROLLREVEAL ===============-->
-      <script src=""></script>
+      <!--==================== POPULAR ====================-->
+      <section class="popular section" id="popular">
 
-      <!--=============== MAIN JS ===============-->
-      <script src="assets/js/main.js"></script>
-   </body>
+      </section>
+
+      <!--==================== ENTREGA ====================-->
+      <section class="delivery section" id="entrega">
+
+      </section>
+
+      <!--==================== CONTATO ====================-->
+      <section class="contact section" id="contato">
+
+      </section>
+   </main>
+
+   <!--==================== FOOTER ====================-->
+   <footer class="footer">
+
+   </footer>
+
+   <!--========== SCROLL UP ==========-->
+
+
+   <!--=============== SCROLLREVEAL ===============-->
+   <script src=""></script>
+
+   <!--=============== MAIN JS ===============-->
+   <script src="assets/js/main.js"></script>
+</body>
+
 </html>
